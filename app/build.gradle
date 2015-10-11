@@ -147,6 +147,10 @@ dependencies {
     androidTestCompile(rootProject.ext.instrumentedTestDependencies.assertjAppCompat){
         exclude group: 'com.android.support'
     }
+    compile rootProject.ext.androidSupportDependencies.supportThirteen
+
+    compile rootProject.ext.androidSupportDependencies.design
+
 
     compile project(":library")
 
