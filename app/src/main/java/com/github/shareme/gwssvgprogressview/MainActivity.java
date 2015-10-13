@@ -8,7 +8,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.TextView;
 
-import com.grottworkshop.gwssvgprogressviewdemo.adapter.FillablePagesAdapter;
+import com.github.shareme.gwssvgprogressview.adapter.FillablePagesAdapter;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;
